@@ -21,6 +21,6 @@ The project provides insights into the CIFAR-10 dataset, showcases the visualize
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to explore the project and use the code for your image classification tasks. If you have any questions or suggestions, please open an issue or contact [Your Name](mailto:youremail@example.com).
+Feel free to explore the project and use the code for your image classification tasks. If you have any questions or suggestions, please open an issue or contact [Naseer](mailto:mnu202001@gmail.com).
 
 Enjoy exploring the world of image classification with CIFAR-10!
